@@ -1,0 +1,84 @@
+- name: Rock&Roll
+  remote_image_url: https://s3-us-west-2.amazonaws.com/7g-resources/rock.png
+  description: This is an arena for Rock&Roll related music.
+  end_date: 12/02/2017 17:00
+  is_feature: false
+  blast: Rock&Roll is not dead.
+- name: Jazz
+  remote_image_url: https://s3-us-west-2.amazonaws.com/7g-resources/jazz-003.jpg
+  description: This is an arena for Jazz related music.
+  end_date: 21/12/2017 01:00
+  is_feature: false
+  blast: Get your daily dose of Jazz.
+- name: Calligraphy
+  remote_image_url: https://s3-us-west-2.amazonaws.com/7g-resources/calligraphy.jpg
+  description: This is an arena for different kinds of Calligraphies.
+  end_date: 05/09/2017 08:00
+  is_feature: false
+  blast: Keep up to date with the lastest Calligraphies.
+- name: Short Films
+  remote_image_url: https://s3-us-west-2.amazonaws.com/7g-resources/short_films.jpeg
+  description: This is an arena where you can find short independent films.
+  end_date: 29/07/2017 18:00
+  is_feature: false
+  blast: Watch the most innovative stories.
+- name: Fairfax Zombie Surf Rock
+  remote_image_url: https://s3-us-west-2.amazonaws.com/7g-resources/fairfax.jpg
+  description:
+  end_date: 10/08/2017 18:00
+  is_feature: true
+  blast: Fairfax Zombie Surf Rock
+- name: Napa Porchfest Artists
+  remote_image_url: https://s3-us-west-2.amazonaws.com/7g-resources/napa.jpg
+  description:
+  end_date: 09/06/2017 18:00
+  is_feature: true
+  blast: Napa Porchfest Artists
+- name: Mission Independent Artists
+  remote_image_url: https://s3-us-west-2.amazonaws.com/7g-resources/mission.jpg
+  description:
+  end_date: 01/12/2017 18:00
+  is_feature: true
+  blast: Mission Independent Artists
+- name: Venice Independent Artists
+  remote_image_url: https://s3-us-west-2.amazonaws.com/7g-resources/venice.jpg
+  description:
+  end_date: 03/05/2017 18:00
+  is_feature: true
+  blast: Venice Independent Artists
+- name: El Paso Independent Artists
+  remote_image_url: https://s3-us-west-2.amazonaws.com/7g-resources/paso.jpg
+  description:
+  end_date: 29/07/2017 18:00
+  is_feature: true
+  blast: El Paso Independent Artists
+- name: Denver Independent Artists
+  remote_image_url: https://s3-us-west-2.amazonaws.com/7g-resources/denver.jpeg
+  description:
+  end_date: 29/07/2017 18:00
+  is_feature: true
+  blast: Denver Independent Artists
+- name: Austin Independent Artists
+  remote_image_url: https://s3-us-west-2.amazonaws.com/7g-resources/austin.jpeg
+  description:
+  end_date: 29/07/2017 18:00
+  is_feature: true
+  blast: Austin Independent Artists
+- name: Cleveland Independent Artists
+  remote_image_url: https://s3-us-west-2.amazonaws.com/7g-resources/cleveland.jpeg
+  description:
+  end_date: 10/11/2017 18:00
+  is_feature: true
+  blast: Cleveland Independent Artists
+- name: NYC Independent Artists
+  remote_image_url: https://s3-us-west-2.amazonaws.com/7g-resources/ny.jpg
+  description:
+  end_date: 08/09/2017 18:00
+  is_feature: false
+  blast: NYC Independent Artists
+- name: Santa Barbara Independent Artists
+  remote_image_url: https://s3-us-west-2.amazonaws.com/7g-resources/santabarbara.jpeg
+  description:
+  end_date: 29/07/2017 18:00
+  is_feature: false
+  blast: Santa Barbara Independent Artists
